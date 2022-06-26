@@ -3,5 +3,5 @@
 📈 Em transição de Carreir.<br>
 👩‍🎓 Estudando  Engenharia de Software  2º Semestre.
 <div>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="180cm" src=" https://github.com/alexandresanlim/Badges4-README.md-Profile https://dev.to/envoy_/150-badges-for-github-pnk">
     </di>
